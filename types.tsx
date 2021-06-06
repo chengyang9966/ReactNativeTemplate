@@ -8,8 +8,8 @@ export type RootStackParamList = {
   NotFound: undefined;
 };
 
-export type BottomTabParamList = {
-  TabOne: undefined;
+export type DrawerParamList = {
+  "Nak Order": undefined;
   TabTwo: undefined;
 };
 
